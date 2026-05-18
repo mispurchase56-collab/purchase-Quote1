@@ -18,7 +18,9 @@ from google.oauth2.service_account import Credentials
 
 # ── Google Sheets Configuration ──────────────────────────────
 CREDENTIALS_PATH = "credentials.json"
+``
 MASTER_SPREADSHEET_ID = "1SgKGzdUwjEzGNiRv-NnDFvw6ngJYvHsg0R6M-Y50ZTA"
+``
 DATABASE_SPREADSHEET_ID = "1I6osw4QSpH82SMFFEqSb4CR4SYErQby-HF_EQuQpofs"
 
 SCOPES = [
